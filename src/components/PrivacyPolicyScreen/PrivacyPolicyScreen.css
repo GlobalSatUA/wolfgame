@@ -1,0 +1,16 @@
+.privacy-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #FFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; 
+    align-items: center;
+    position: relative; 
+  }
+  
+  .BackBtn {
+    width: 160px;
+    margin-top: auto;
+    margin-bottom: 10px;
+  }
